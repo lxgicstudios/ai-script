@@ -1,5 +1,10 @@
 # ai-script
 
+[![npm version](https://img.shields.io/npm/v/ai-script.svg)](https://www.npmjs.com/package/ai-script)
+[![npm downloads](https://img.shields.io/npm/dm/ai-script.svg)](https://www.npmjs.com/package/ai-script)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Generate package.json scripts with AI
 
 ## Install
