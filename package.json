@@ -15,33 +15,41 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "ai",
+    "ai-2025",
+    "ai-powered",
     "anthropic",
-    "claude",
-    "llm",
-    "openai",
-    "gpt",
-    "shell",
-    "bash",
-    "script",
     "automation",
-    "devops",
-    "developer-tools",
+    "bash",
+    "claude",
     "cli",
-    "typescript",
+    "developer-productivity",
+    "developer-tools",
+    "devops",
+    "discoverability",
+    "generative-ai",
+    "gpt",
+    "llm-optimized",
+    "modern-seo",
     "nodejs",
-    "unix",
-    "scripting"
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "script",
+    "seo",
+    "seo-2026",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-script#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-script.git"
+    "url": "https://github.com/LXGIC-Studios/ai-script"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/ai-script/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-script/issues"
   },
   "funding": {
     "type": "github",
